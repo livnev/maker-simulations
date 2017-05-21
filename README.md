@@ -1,3 +1,3 @@
 # maker-simulations
 
-Some simulations of Sai price, with graphs.
+Some simulations of SKR price, with graphs and calculations.
